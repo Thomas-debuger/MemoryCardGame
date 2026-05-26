@@ -47,6 +47,11 @@ dotnet run --project MemoryCardGame.csproj
 - Visual Studio 2022（建議）
 
 ## 畫面說明
+<img width="634" height="944" alt="image" src="https://github.com/user-attachments/assets/d4f18d3f-19a8-4a89-ba75-b1f1ef57b325" />
+<img width="631" height="948" alt="image" src="https://github.com/user-attachments/assets/da6ff2f4-e8f9-4de7-8d97-443097cda13f" />
+<img width="632" height="945" alt="image" src="https://github.com/user-attachments/assets/14ae4124-2bcc-4ef3-9e3e-125acae13b76" />
+<img width="630" height="943" alt="image" src="https://github.com/user-attachments/assets/f94b43e8-b873-4563-93fb-bba028396b94" />
+
 - **深藍色背景**：高質感遊戲風格
 - **牌背**：深藍漸層 + 格紋花樣
 - **牌面**：白色底，紅色（♥♦）/ 黑色（♠♣）花色
